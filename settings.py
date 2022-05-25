@@ -25,10 +25,7 @@ You will get your pack soon as you add a sticker. Send more gif/videos to add st
 
 ABOUT = "convert gifs and videos to video stickers."
 
-REPO = "VideoStickerBot"
-
-STARKBOTS = True
+STARKBOTS = Flase
 
 CUSTOM_USERS_TABLE = True
 
-# REMOVE_ADDONS = ["must_join"]

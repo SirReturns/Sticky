@@ -25,7 +25,7 @@ You will get your pack soon as you add a sticker. Send more gif/videos to add st
 
 ABOUT = "convert gifs and videos to video stickers."
 
-STARKBOTS = False
+STARKBOTS = True
 
 CUSTOM_USERS_TABLE = True
 

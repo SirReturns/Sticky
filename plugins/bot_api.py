@@ -16,8 +16,8 @@ class BotAPI:
     username = requests.get(base_url + "getMe").json()["result"]["username"].title()
     PACK_NAME = "fpack_{}_by_" + username
     NEW_PACK_NAME = "fpack{}_{}_by_" + username
-    PACK_TITLE = 'Pack By @' + self.username
-    NEW_PACK_TITLE = 'Pack {} By @' + self.username
+    PACK_TITLE = 'Pack By @FL4PTRAP'
+    NEW_PACK_TITLE = 'Pack {} By @FL4PTRAP' 
     LOG_CHAT = ENV().LOG_CHAT
 
     def __init__(self, message: Message, status: Message):
